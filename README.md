@@ -10,3 +10,6 @@ No MC solutions
 
 - 2021
   - BalancedSystem, Cluster (ue test 2 - mo16)
+
+- 2020
+  - songlist, songiterable, songiterator, song, emptylist, nonemptylist
