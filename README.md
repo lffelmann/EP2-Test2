@@ -6,6 +6,7 @@ No MC solutions
 
 - 2023
   - Mo (StarCollection wont update)
+  - Mi (getStickCountable wont update)
 
 - 2021
   - BalancedSystem, Cluster (ue test 2 - mo16)
