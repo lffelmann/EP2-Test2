@@ -15,3 +15,4 @@ No MC solutions
   - songlist, songiterable, songiterator, song, emptylist, nonemptylist
   - orbitable, celestialsystem, celestialbody
   - gradingcollection, gradingiteerable, gradingiterator, grading, gradinglist, singestudentgradinglist
+  - directory, file, fileObject
