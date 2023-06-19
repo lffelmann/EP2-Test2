@@ -14,3 +14,4 @@ No MC solutions
 - 2020
   - songlist, songiterable, songiterator, song, emptylist, nonemptylist
   - orbitable, celestialsystem, celestialbody
+  - gradingcollection, gradingiteerable, gradingiterator, grading, gradinglist, singestudentgradinglist
