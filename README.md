@@ -16,3 +16,4 @@ No MC solutions
   - orbitable, celestialsystem, celestialbody
   - gradingcollection, gradingiteerable, gradingiterator, grading, gradinglist, singestudentgradinglist
   - directory, file, fileObject
+  - basic, blue, mixture, paint, paintbox, paintiterable, paintiterator, red, yellow
