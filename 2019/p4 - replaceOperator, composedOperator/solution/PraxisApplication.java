@@ -1,11 +1,11 @@
+import java.util.Iterator;
+
 // This class can be modified and is for testing your solution.
 // Modifications will NOT be reviewed or assessed.
 //
 public class PraxisApplication {
 
     public static void main(String[] args) {
-
-        /* TODO: REMOVE THIS LINE.
 
         StringOperator singleRep = new ReplaceOperator('t','T');
         System.out.println(singleRep); // replace 't' with 'T'
@@ -38,7 +38,7 @@ public class PraxisApplication {
 
         try {
             iter.next();
-        } catch (NoSuchElementException e) {
+        } catch (Exception e) {
             System.out.println(e.getMessage());
         }
         // no operator!
@@ -46,8 +46,6 @@ public class PraxisApplication {
         for(StringOperator op: rep1) {
             System.out.println(op);
         }
-
-        TODO: REMOVE THIS LINE. */
 
         /*
         replace 'a' with 'A'
