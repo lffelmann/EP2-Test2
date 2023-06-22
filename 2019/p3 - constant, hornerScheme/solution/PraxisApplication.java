@@ -1,11 +1,12 @@
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+
 // This class can be modified and is for testing your solution.
 // Modifications will NOT be reviewed or assessed.
 //
 public class PraxisApplication {
 
     public static void main(String[] args) {
-
-        /* TODO: REMOVE THIS LINE.
 
         Polynomial poly1 = new HornerScheme(8,new HornerScheme(-4, new Constant(10)));
         System.out.println(poly1); // (8 + x*(-4 + x*10))
@@ -41,8 +42,6 @@ public class PraxisApplication {
             System.out.println(e.getMessage());
         }
         // no coefficient!
-
-        TODO: REMOVE THIS LINE. */
 
     }
 }
