@@ -21,3 +21,4 @@ No MC solutions
 - 2019
   - p4 - replaceOperator, composedOperator
   - p3 - constant, hornerScheme
+  - interval, set, union
