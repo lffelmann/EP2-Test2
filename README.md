@@ -22,3 +22,6 @@ No MC solutions
   - p4 - replaceOperator, composedOperator
   - p3 - constant, hornerScheme
   - interval, set, union
+
+- 2018
+  - number, sum
