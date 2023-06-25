@@ -25,3 +25,4 @@ No MC solutions
 
 - 2018
   - number, sum
+  - generator, range, filter
